@@ -25,3 +25,4 @@ while True:
         os.remove(f"destination\\default")
     keyboard.add_hotkey('ctrl + shift + r', restore)
 
+#ts for the commit
